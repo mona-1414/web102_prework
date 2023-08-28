@@ -33,7 +33,7 @@ GIF created with ...  LiceCap
 
 ## Notes
 
-The biggest challenge I faced was figuring out how to use the arrow function syntax, as well as the filter(). However, both were really helpful in achieving the desired results once I got the hang of them.
+The biggest challenge I faced was figuring out how to use the ternary operator ? syntax, as well as the filter(). However, both were really helpful in achieving the desired results once I got the hang of them.
 
 ## License
 
