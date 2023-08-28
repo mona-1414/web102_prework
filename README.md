@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/gek5nqG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mona-1414/web102_prework/blob/main/gitprework.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
 
 
 
